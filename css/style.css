@@ -47,6 +47,18 @@ div {
     color: blue;
     text-decoration: underline;
 }
+.introduction {
+	background-image: url(http://i.imgur.com/eBFNLiS.jpg);
+  background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45.938rem;
+	}
+.content {
+  padding: 0 0.938rem;
+  margin: 0 auto;
+  min-width: 37.5rem;
+}
 .introduction > .content{
 	text-align: center;
 }
