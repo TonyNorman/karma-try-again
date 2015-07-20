@@ -78,12 +78,15 @@ z-index: 9999;
 }
 .introduction h1{
   font-size: 3.125rem;
+ margin-top: 5.5rem;
+ padding: 60px;
 }
 
 
 .introduction h3{
   margin-top: -2.75rem;
   font-size: 1.563rem;
+  margin-bottom: 10px;
 }
 
 .big-button {
@@ -120,6 +123,8 @@ button:hover{
     box-sizing: border-box;
     height: 4em;
     background-color: white;
+    margin: -4px;
+    height: 130px;
  
 }
 
