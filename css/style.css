@@ -142,8 +142,9 @@ button:hover{
   font-size: 2.25em;
 }
 @media (max-width: 600px){
-  .top-navigstion> .content{
+  .top-navigation .content{
     background-color: orange;
+
   }
 }
 
